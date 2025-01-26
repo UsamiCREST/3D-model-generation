@@ -9,3 +9,5 @@ Two-stage GAN-based generation of 3D model: GANs
 Results: results_for_article
 
 For public availability.
+
+Author : Takumi Deshimaru
